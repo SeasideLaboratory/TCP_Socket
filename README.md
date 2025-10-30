@@ -1,0 +1,6 @@
+tiny:bitを使用したロボット車両をDual Shock4のアナログジョイスティックでコントロールする為に使用されるPython3スクリプト。
+
+メインコントローラー(Linux PC)で実行されるスクリプト：TCP_socket_client_thread.py
+サプコントローラー（Raspberry Pi４)で実行されるスクリプト：TCP_socket_server_thread_pica2.py
+
+以上
